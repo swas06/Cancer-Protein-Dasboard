@@ -1,0 +1,38 @@
+Project Milestone Requirements
+Phase 1 (Current)
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Jupyter
+
+Phase 2
+
+Biopython
+
+Requests
+
+UniProt API
+
+Phase 3
+
+ColabFold / AlphaFold
+
+PyMOL (separate desktop software)
+
+Phase 4
+
+Streamlit
+
+FastAPI
+
+Plotly
+
+This setup is sufficient for your multi-cancer TCGA analysis, protein structure workflow, and final dashboard.
